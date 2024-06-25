@@ -1,4 +1,4 @@
-# FSCC
+# FLI
 File structure:
 
 1. Source codes of  the proposd algorithm and all compared algorithms are stored in the file 'Algorithms'.
